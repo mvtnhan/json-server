@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "id": 1, "done": false, "content": "buy a mouse" },
+    { "id": 2, "done": true, "content": "play new game" },
+    { "id": 3, "done": false, "content": "cell a keyboard" }
+  ]
+}
